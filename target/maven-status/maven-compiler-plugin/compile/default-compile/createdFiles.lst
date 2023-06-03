@@ -1,0 +1,9 @@
+com\mycompany\projetopoo\crudpoo\Crudpoo.class
+com\mycompany\projetopoo\crudpoo\repository\DbConnection.class
+com\mycompany\projetopoo\crudpoo\entity\Entity.class
+com\mycompany\projetopoo\crudpoo\cliente\Cliente.class
+com\mycompany\projetopoo\crudpoo\contrato\ContratoDao.class
+com\mycompany\projetopoo\crudpoo\repository\Dao.class
+com\mycompany\projetopoo\crudpoo\contrato\Contrato.class
+com\mycompany\projetopoo\crudpoo\repository\IDao.class
+com\mycompany\projetopoo\crudpoo\cliente\ClienteDao.class
